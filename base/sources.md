@@ -4,4 +4,4 @@
 3. [Закон о безопасности КИИ в вопросах и ответах](https://ics-cert.kaspersky.ru/reports/2018/02/06/zakon-o-bezopasnosti-kii-v-voprosakh-i-otvetah/)
 
 
-[назад к докладу](../base/base)
+[назад к докладу](../base/base.md)
