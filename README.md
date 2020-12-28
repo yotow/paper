@@ -1,6 +1,6 @@
 # Сайт созданный для представления доклада по предмету "Информационные технологии"
 
-[Доклад](https://github.com/yotow/paper/blob/main/base.md)
+[Доклад](https://github.com/yotow/paper/blob/main/base.html)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
