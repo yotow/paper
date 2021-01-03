@@ -15,3 +15,5 @@
   5. Файлы HTML не делал.
 
 ![](add/explorer.png)
+
+[назад](/README.md)
