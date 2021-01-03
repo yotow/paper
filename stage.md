@@ -3,8 +3,8 @@
 Зарегистрировался на github.
 Скачал и установил Git
 Заливал файлы через консоль (история команд на рисунке 1)
-[image](../add/git_bash.png)
+![](add/git_bash.png)
 Для форматирования страницы использовал чистый Markdown
-[image](../add/markdown.png) 
+![](add/markdown.png) 
 Файлы HTML не делал.
-[image](../add/explorer.png)
+![](add/explorer.png)
