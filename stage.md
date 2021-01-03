@@ -6,14 +6,14 @@
 
   1. Заливал файлы через консоль (история команд на рисунке 1)
 
-![](add/git_bash.png)
+		![](add/git_bash.png)
 
   1. Для форматирования страницы использовал чистый Markdown
 
-![](add/markdown.png) 
+		![](add/markdown.png) 
 
   1. Файлы HTML не делал.
 
-![](add/explorer.png)
+		![](add/explorer.png)
 
 [назад](/README.md)
